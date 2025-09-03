@@ -1,0 +1,2 @@
+# Jellyfin-assets
+Logo change
